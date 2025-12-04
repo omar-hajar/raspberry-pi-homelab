@@ -33,9 +33,16 @@
    f. confirm storage card is ejected before removing from card reader
    g. finished
 
-### 2. Initial Pi Setup
-[Documentation continues...]
+**Lesson learned:** When using SSH, must include username: `ssh pi@[IP-ADDRESS]`
 
+### 2. Initial Pi Setup
+- First boot successful
+- Found Pi IP address via router interface: 192.168.1.xx
+- Connected via SSH successfully
+- Changed password immediately after first login
+- Running system updates with `apt update` and `apt upgrade`
+
+  
 ## Challenges & Solutions
 [I'll document any issues I encounter and how I solved them]
 
