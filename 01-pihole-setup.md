@@ -1,6 +1,6 @@
 # Pi-hole Setup Guide
 
-**Date:** December 2024  
+**Date:** December 2025  
 **Hardware:** Raspberry Pi 5 4GB  
 **OS:** Raspberry Pi OS (64-bit)
 
